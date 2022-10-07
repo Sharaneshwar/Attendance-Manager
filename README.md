@@ -1,2 +1,2 @@
-# CM3I_OOP_Micro-Project
-This is my OOP micro-project of CM3I. The topic is Student Attendance Management System using C++
+# Attendance Manager
+A Student Attendance Management System developed using C++. The concepts used in this project are File Handling and OOPs. The system takes input a list of present or absent roll numbers in a .csv file. The user should have an excel file containing the roll call of the class. According to the input given in the .csv file, the system puts out P (for Present) and A (for Absent) in the respective cells of the roll call according to the given date.
